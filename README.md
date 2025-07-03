@@ -49,3 +49,53 @@ This SQL analysis examines Kultra Mega Stores' inventory and sales data from 200
 2. [Example: "Express Air was being used for 35% of Low priority orders, representing significant cost savings opportunity"]
 
 ---
+
+## Amazon Sales Case Study - Excel Project
+
+### Project Overview
+This Excel dashboard analyzes Amazon's sales data to uncover trends, performance metrics, and actionable business insights.
+
+### Key Features
+1. **Interactive Dashboard**:
+   - Sales performance by category/region
+   - Monthly/quarterly trend analysis
+   - Top performing products
+
+2. **Advanced Analytics**:
+   - Pivot tables with custom calculations
+   - Conditional formatting for quick insights
+   - Dynamic charts with filters
+
+3. **Data Processing**:
+   - Automated data cleaning
+   - Custom formulas for KPIs
+   - Error-checking mechanisms
+
+### Technical Components
+- **Data Sources**: Amazon sales data (2019-2022)
+- **Key Sheets**:
+  - `Raw Data`: Source data with cleaning
+  - `Analysis`: Pivot tables and calculations
+  - `Dashboard`: Interactive visualizations
+- **Excel Features Used**:
+  - Power Query (for data transformation)
+  - Pivot Charts
+  - Slicers for user filtering
+  - Advanced formulas (XLOOKUP, SUMIFS)
+
+### Dashboard Preview
+![Dashboard Preview](images/dashboard-screenshot.png)
+<img width="960" alt="AMAZON 1" src="https://github.com/user-attachments/assets/db22b5df-3344-482d-aab7-79dbc346ca51" />
+
+### How to Use
+1. Download the Excel file
+2. Enable editing when prompted
+3. Use the slicers to filter data
+4. Pivot tables automatically update all visuals
+
+### Key Insights
+1. [State 1-2 major findings from your analysis]
+2. [Example: "Electronics accounted for 42% of returns despite being only 28% of sales"]
+
+---
+
